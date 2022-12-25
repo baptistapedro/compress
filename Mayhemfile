@@ -1,0 +1,5 @@
+project: compress
+target: compress
+
+cmds:
+  - cmd: /fuzz_gzip
